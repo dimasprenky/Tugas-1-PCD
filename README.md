@@ -1,2 +1,2 @@
-# Tugas-PCD
-ok
+# Tugas-1-PCD
+Tugas PCD
